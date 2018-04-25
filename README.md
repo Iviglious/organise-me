@@ -1,16 +1,6 @@
-# Simple Django Login and Registration
+# Organise Me app
 
-An example of Django project with basic user functionality.
-
-## Screenshots
-
-| Log In | Registration | Authorized page |
-| -------|--------------|-----------------|
-| <img src="./screenshots/login.png" width="200"> | <img src="./screenshots/register.png" width="200"> | <img src="./screenshots/authorized_page.png" width="200"> |
-
-| Password reset | Set new password | Password change |
-| ---------------|------------------|-----------------|
-| <img src="./screenshots/password_reset.png" width="200"> | <img src="./screenshots/set_new_password.png" width="200"> | <img src="./screenshots/password_change.png" width="200"> |
+Easy and qick way to orginise your life.
 
 ## Functionality
 
@@ -34,8 +24,8 @@ An example of Django project with basic user functionality.
 ### Clone the project
 
 ```
-git clone https://github.com/egorsmkv/simple-django-login-and-register
-cd simple-django-login-and-register
+git clone https://github.com/iviglious/organise-me
+cd organise-me
 ```
 
 ### Install dependencies & activate virtualenv
@@ -73,5 +63,7 @@ Just run this command:
 
 ```
 python source/manage.py runserver
+or
+./start.sh
 ```
 
