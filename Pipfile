@@ -9,6 +9,7 @@ Django = "==2.0.4"
 gunicorn = "==19.7.1"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.6"
